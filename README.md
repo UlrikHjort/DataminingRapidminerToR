@@ -1,0 +1,1 @@
+Using R as an alternative to Rapidminer in "Data mining for the masses"
